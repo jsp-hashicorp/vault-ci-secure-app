@@ -1,6 +1,6 @@
 variable "code_version" {
   type = string
-  default = "2_0_3"
+  default = "1_0_1"
 }
 
 variable "bucket_name" {

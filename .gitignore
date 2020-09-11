@@ -1,0 +1,6 @@
+*.tfstate
+*.tfstate.backup
+*.code-workspace
+.terrraform/
+awstfspush
+.env
